@@ -9,4 +9,4 @@
 	url = https://github.com/jspahrsummers/xcconfigs.git
 [submodule "Carthage/Checkouts/ReactiveSwift"]
 	path = Carthage/Checkouts/ReactiveSwift
-	url = https://github.com/ReactiveCocoa/ReactiveSwift.git
+	url = https://4570d8eb4d8eb170da01013e322464154108210e@github.com/orakaro/ReactiveSwift.git
